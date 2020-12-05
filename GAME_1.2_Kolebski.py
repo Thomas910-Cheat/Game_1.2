@@ -4,8 +4,8 @@ import pygame, random, os
 pygame.init()
 
 class Settings(object):
-    width = 400
-    height = 500
+    width = 400                                                       #Die breite des Fensters
+    height = 500                                                      #Die höhe des Fensters
     imagewidth = 50
     imageheight = 50
     fps = 60       
